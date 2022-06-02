@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @lakshay9131
+- 👋 Hi, I’m @akshay moryani
 - 👀 I’m interested in  Challenging Architecture 
 - 🌱 I’m currently learning  New Performance and Reliability
-- 💞️ I’m looking to collaborate on  Android,Nodejs and react 
+- 💞️ I’m looking to collaborate on  Android,Nodejs and react  and innovative projects only
 - 📫 How to reach me  email me on 
 
 <!---
