@@ -8,3 +8,6 @@
 lakshay9131/lakshay9131 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<strong>FullStack+Sysem Design</strong>
+
+<strong>JavaScript+Android(Java/Kotlin)+Python+AWS+MongoDB</strong>
